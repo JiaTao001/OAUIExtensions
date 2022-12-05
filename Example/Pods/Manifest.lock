@@ -1,0 +1,16 @@
+PODS:
+  - OAUIExtensions (0.1.0)
+
+DEPENDENCIES:
+  - OAUIExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  OAUIExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OAUIExtensions: c095277cf69e2133737a926e2dee6f1f58089b73
+
+PODFILE CHECKSUM: 1b0fe953b0dc7a2fcef28f06c3431a8d3e069ab2
+
+COCOAPODS: 1.11.2

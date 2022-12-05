@@ -1,0 +1,6 @@
+framework module OAUIExtensions {
+  umbrella header "OAUIExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
